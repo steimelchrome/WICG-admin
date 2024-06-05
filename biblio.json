@@ -31,6 +31,10 @@
 		"href": "https://wicg.github.io/css-parser-api/",
 		"title": "CSS Parser API"
 	},
+	"DOCUMENT-PICTURE-IN-PICTURE": {
+		"href": "https://wicg.github.io/document-picture-in-picture/",
+		"title": "Document Picture-in-Picture"
+	},
 	"DOCUMENT-POLICY": {
 		"href": "https://wicg.github.io/document-policy/",
 		"title": "Document Policy"
